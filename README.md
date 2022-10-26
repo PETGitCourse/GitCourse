@@ -9,7 +9,7 @@
 
 # Recursos :book:
 
-- [Livro Foss Pro git]
+- [Livro Foss Pro git](https://www.git-scm.com/book/en/v2)
 
 # Exemplos :book:
 
