@@ -7,6 +7,10 @@
 
 ---
 
+# Recursos :book:
+
+- [Livro Foss Pro git]
+
 # Exemplos :book:
 
 ## Log customizado
